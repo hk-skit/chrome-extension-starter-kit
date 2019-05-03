@@ -1,2 +1,2 @@
-# chrome-extenstion-starter-kit
-A starter kit for developing chrome extensions with React. 
+# chrome-extension-starter-kit
+A starter kit for developing chrome extensions with React and HMR.
