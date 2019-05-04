@@ -9,7 +9,7 @@ const configFactory = require('../config/webpack.config');
 const config = configFactory('development');
 
 // removes react-dev-utils/webpackHotDevClient.js at first in the array
-config.entry = config.entry.filter(
+config.entry.app = config.entry.app.filter(
   entry => !entry.includes('webpackHotDevClient')
 );
 
