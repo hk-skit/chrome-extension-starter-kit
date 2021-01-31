@@ -44,4 +44,4 @@ Your app is ready to be deployed!
 [Original article by Hitesh Kumar](https://smellycode.com/chrome-extension-live-reloading-with-react/)
 
 
-[original repo](https://github.com/hk-skit/chrome-extension-starter-kit)
+[Original repo](https://github.com/hk-skit/chrome-extension-starter-kit)
