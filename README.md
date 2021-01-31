@@ -1,14 +1,25 @@
 # React Chrome Extension - Starter Kit
 
+
+----------
+
 ## Step 1 - Clone down the repo
 ```
 git clone https://github.com/stefankudev/chrome-extension-starter-kit
 ```
 
+
+----------
+
+
 ## Step 2 - Create your first build
 ```
 npm run build
 ```
+
+
+----------
+
 
 ## Step 3
 ### Navigate to `chrome://extensions`
@@ -20,6 +31,10 @@ npm run build
 ```
 npm run watch
 ```
+
+
+----------
+
 
 ## Step 5 - Share your creation with the world!
 Your app is ready to be deployed!
