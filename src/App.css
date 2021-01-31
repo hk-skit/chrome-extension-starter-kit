@@ -21,7 +21,7 @@
 
 button {
   padding: 1rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
   border-radius: 1rem;
   border: solid white 3px;
   color: white;
@@ -30,13 +30,7 @@ button {
 }
 
 button:active {
-  padding: 1rem;
-  font-size: 2rem;
-  border-radius: 1rem;
-  border: solid white 3px;
-  color: white;
-  background: none;
-  box-shadow: 0px 0px 0px white !important;
+  box-shadow: 0px 0px 0px white;
   transform: translate(7px,7px);
 }
 

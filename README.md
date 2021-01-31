@@ -1,23 +1,30 @@
-# React Start Kit for Chrome extension with Live Reloading.
+# React Chrome Extension - Starter Kit
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Step 1 - Clone down the repo
+```
+git clone https://github.com/stefankudev/chrome-extension-starter-kit
+```
 
-## Motivation
+## Step 2 - Create your first build
+```
+npm run build
+```
 
-Please read the entire post here.
+## Step 3
+### Navigate to `chrome://extensions`
+### Enable "Developer Mode" (slider on top right)
+### Click "Load Unpacked" button
+### Navigate to the `build` folder inside the cloned repo
 
-## Available Scripts
+## Step 4 - Enable Live Reload
+```
+npm run watch
+```
 
-### `npm run watch`
-
-It watches the files changes and updates the build.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
+## Step 5 - Share your creation with the world!
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+----------
+
+[Original article by Hitesh Kumar](https://smellycode.com/chrome-extension-live-reloading-with-react/)
+[original repo](https://github.com/hk-skit/chrome-extension-starter-kit)
