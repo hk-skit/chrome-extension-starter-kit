@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Motivation
 
-Please read the entire post here.
+Please read the entire post [here](https://smellycode.com/chrome-extension-live-reloading-with-react).
 
 ## Available Scripts
 
